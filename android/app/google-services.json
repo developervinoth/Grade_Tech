@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199517376165",
+    "project_id": "gradetech-42117",
+    "storage_bucket": "gradetech-42117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199517376165:android:099aec15a3931ab25f074c",
+        "android_client_info": {
+          "package_name": "com.example.grade_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199517376165-objikt3tvdbip9k71qsa2654cfpr4cbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTP9N5psYcWbUjrg4gcg7OjRubWa6vtpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199517376165-objikt3tvdbip9k71qsa2654cfpr4cbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
